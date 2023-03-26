@@ -8,6 +8,6 @@ NetProp: an R package for network propagation with PPI
     
 ### 2. test 
 
-    [R code](test/01test.R)
+&nbsp;&nbsp;&nbsp;&nbsp;[R code](test/01test.R)
 
     
