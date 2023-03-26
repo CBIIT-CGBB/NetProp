@@ -7,5 +7,5 @@ NetProp: an R package for network propagation with PPI
     install_github("CBIIT-CGBB/NetProp")
     
 ### 2. test
-    [The R script](test/01test.R)
+[R code](test/01test.R)
     
