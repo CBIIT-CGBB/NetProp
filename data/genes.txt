@@ -1,0 +1,13 @@
+TCGA	GPT4	gene	cancer	note
+1	3	TP53	LUAD	 (Tumor protein p53)
+2	1	KRAS	LUAD	 (Kirsten rat sarcoma viral oncogene homolog)
+3	2	EGFR	LUAD	 (Epidermal growth factor receptor)
+4	6	BRAF	LUAD	" (B-Raf proto-oncogene, serine/threonine kinase)"
+5	4	STK11	LUAD	 (Serine/threonine kinase 11)
+NA	5	KEAP1	LUAD	 (Kelch-like ECH-associated protein 1)
+1	2	TP53	PRAD	 (Tumor protein p53)
+2	1	SPOP	PRAD	 (Speckle-type POZ protein)
+3	3	PTEN	PRAD	 (Phosphatase and tensin homolog)
+4	4	FOXA1	PRAD	 (Forkhead box A1)
+5	NA	PIK3CA	PRAD	"(phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha)"
+NA	5	KMT2D	PRAD	 (Lysine methyltransferase 2D)
