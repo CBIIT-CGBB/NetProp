@@ -1,0 +1,8 @@
+import(igraph)
+importFrom(diffuStats, diffuse)
+importFrom(dnet, dRWR)
+export (diffusion)
+export (ppi2net)
+export (rwr)
+export (sp)
+export (steiner_net)
