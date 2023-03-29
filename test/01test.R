@@ -15,6 +15,7 @@ gsize(g)
 
 ## genes
 gene <- unique(genes[,3])
+
 ## calculate diffusion score
 out1 <- diffusion(g, gene, 0.005);
 ## do random walk with restart 
