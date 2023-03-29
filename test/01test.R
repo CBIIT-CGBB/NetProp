@@ -23,3 +23,5 @@ out2 <- rwr(g, gene, 0.0005);
 out3 <- sp(g, gene)
 ## do steiner
 out4 <- steiner_net(g=g, steiner.node=gene);
+## do cluster
+out5 <- ncluster(g, gene, cutoff=20);
