@@ -26,3 +26,5 @@ out3 <- sp(g, gene)
 out4 <- steiner_net(g=g, steiner.node=gene);
 ## do cluster
 out5 <- ncluster(g, gene, cutoff=20);
+## get nodes by degree
+out6 <- ncluster(g, gene, degree=2);
