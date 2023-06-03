@@ -56,7 +56,8 @@ ncluster <- function(g, gene, cutoff){
     out.s <- c(out.s, gen);
   }
   out.s <- unique(out.s);
-  return(list(genes=out.s, graphs=out));
+  out.f <- list(genes=out.s, graphs=out);
+  return(out.f);
 }
 
 
